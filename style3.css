@@ -1,0 +1,13 @@
+.container {
+    background-color: rgb(203, 198, 207);
+    width: 500;
+    height: auto;
+}
+.flutuante {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-color: blueviolet;
+    float: left;
+    width: 100px;
+    padding: 10px;
+}

@@ -1,10 +1,10 @@
 body {
-    background-color: #e2b9a1;
+    background-color: #886841;
 }
 h1 {
-    color: rgb(252, 240, 223);
-    background-color: rgb(201, 126, 83);
-    border: 3px solid rgb(109, 89, 146);
+    color: rgb(253, 237, 213);
+    background-color: rgb(190, 134, 70);
+    border: 3px solid rgb(49, 49, 19);
     text-align: center;
     padding: 5px;
     margin: 20px;
@@ -13,9 +13,9 @@ h1 {
     font-size: 40px;
 }
 h2 {
-    color: rgb(252, 240, 223);
-    background-color: rgb(201, 126, 83);
-    border: 3px solid rgb(109, 89, 146);
+    color: rgb(253, 237, 213);
+    background-color: rgb(190, 134, 70);
+    border: 3px solid rgb(49, 49, 19);
     text-align: center;
     padding: 5px;
     margin: 20px;
@@ -24,7 +24,7 @@ h2 {
     font-size: 30;
 }
 h3 {
-    color: rgb(109, 89, 146);
+    color: rgb(49, 49, 19);
     background-color: rgb(252, 240, 223);
     text-align: center;
     padding: 5px;
@@ -34,7 +34,7 @@ h3 {
     font-size: 20px;
 }
 p {
-    color: rgb(109, 89, 146);
+    color: rgb(49, 49, 19);
     background-color: rgb(252, 240, 223);
     padding: 20px;
     margin: 20px;
@@ -42,4 +42,14 @@ p {
     font-family: 'Courier New', Courier, monospace;
     font-size: 18px;
     text-align: center;
+}
+#img2 {
+    width: 502px;
+    border-radius: 50%;
+}
+img {
+    border: 10px solid rgb(49, 49, 19);
+    border-radius: 5%;
+    display: block;
+    margin: auto;
 }
